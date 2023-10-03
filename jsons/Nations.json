@@ -36,3 +36,38 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
 ]
+[
+	{
+		"name": "Makedonien",
+		"leaderName": "Alexander der Große",
+		"adjective": ["makedonisch"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Wir kommen in Frieden.",
+		"startIntroPart2": "Ich bin Alexander der Große, Herrscher von Persien!",
+		
+		"declaringWar": "Gebt auf, wir werden euch vollkommen vernichten!",
+		"attacked": "Ihr habt also die Vernichtung gewählt?",
+		"defeated": "Was? Ich bin nicht der Beste?",
+		"introduction": "Früher oder später werde ich euch vernichten!!",
+		
+		"neutralHello": "Wie geht´s?",
+		"neutralLetsHearIt": ["Was ist los?","Was sagst du?","Ich höre dich an."],
+		"neutralNo": ["Wir lehnen dankent ab.","Nein!","Ich lehne ab."],
+		"neutralYes": ["Sehr gut.","Natürlich, ja.","Das erfreut mich."],
+
+		"hateHello": "Was willst du jetzt?",
+		"hateLetsHearIt": ["Sprich!","Was meinst du?","Ich höre."],
+		"hateNo": ["Das ist eine erbärmliche Frage.","Wir stimmen nicht zu!","Du bittest um Vergebung?"],
+		"hateYes": ["Ich stimme zu.","Das ist gut genug.","Na gut..."],
+		
+		"afterPeace": "Nächstes  mal werde ich dich nicht verschonen.",
+		"tradeRequest": "Wir freuen uns über diesen Handel.",
+
+		"outerColor": [165,32,25],
+		"innerColor": [245,255,0],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Alexandria","Tyros","Gaza","Alexandria","Alexandria","Alexandria","Alexandria","Alexandria","Alexandria",
+			"Alexandropolis","Alexandria","Alexandria","Alexandria","Alexandria","Alexandria","Alexandria","Alexandria","Alexandria","Alexandria"]
+	}
+]
